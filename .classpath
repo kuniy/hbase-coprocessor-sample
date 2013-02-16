@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/guava-r09.jar"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/hadoop-0.20.2-dev-core.jar"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/hbase-0.92.1.jar"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/dev/Hadoop/HBase0.92.1/zookeeper-3.3.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
