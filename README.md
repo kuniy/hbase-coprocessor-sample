@@ -1,13 +1,13 @@
 Deployment - RegionObserverCount
 -----------------------------------
 
-1. region_observer_count.jar
+(1) region_observer_count.jar
 
 maprfs:///user/root/coprocessor/region_observer_count.jar
 
-2. run UserActionHTable.java
+(2) run UserActionHTable.java
 
-# java UserActionHTable <hbase-site.xml>
+$ java UserActionHTable <hbase-site.xml>
 
 hbase> describe 'USERACTION'
 DESCRIPTION
@@ -48,7 +48,7 @@ Here is some help for this command:
 Start disable of named table: e.g. "hbase> disable 't1'"
 
 
-# hbase zkcli
+$ hbase zkcli
 Connecting to XXX.XXX.XXX:5181
 13/02/16 06:40:39 INFO zookeeper.ZooKeeper: Client environment:zookeeper.version=3.3.2--1, built on 08/30/2011 17:53 GMT
 ...
